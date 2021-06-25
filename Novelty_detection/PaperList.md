@@ -124,3 +124,8 @@ Anomaly Detection in Video Sequence With Appearance-Motion Correspondence ([pape
 Memorizing Normality to Detect Anomaly: Memory-Augmented Deep Autoencoder for Unsupervised Anomaly Detection ([paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Gong_Memorizing_Normality_to_Detect_Anomaly_Memory-Augmented_Deep_Autoencoder_for_Unsupervised_ICCV_2019_paper.html))
 
 GODS: Generalized One-Class Discriminative Subspaces for Anomaly Detection ([paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Gong_Memorizing_Normality_to_Detect_Anomaly_Memory-Augmented_Deep_Autoencoder_for_Unsupervised_ICCV_2019_paper.html))
+
+[link](http://url.com)
+## 2018年
+### CVPR
+Future Frame Prediction for Anomaly Detection – A New Baseline([paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Future_Frame_Prediction_CVPR_2018_paper.pdf))
