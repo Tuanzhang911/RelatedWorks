@@ -82,6 +82,9 @@ Patch SVDD: Patch-level SVDD for Anomaly Detection and Segmentation ([paper](htt
 
 ## 2019年
 ### CVPR
+
+Real-world Anomaly Detection in Surveillance Videos([paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.pdf)
+
 Where's Wally Now_ Deep Generative and Discriminative Embeddings for Novelty Detection ([paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Burlina_Wheres_Wally_Now_Deep_Generative_and_Discriminative_Embeddings_for_Novelty_CVPR_2019_paper.pdf))
 
 OCGAN_ One-Class Novelty Detection Using GANs With Constrained Latent Representations([paper](https://arxiv.org/abs/1903.08550))([code](https://github.com/PramuPerera/OCGAN))
